@@ -1,0 +1,26 @@
+{
+  "name": "request-rate-limitter",
+  "version": "1.0.0",
+  "description": "This is a smple app for request rate limiter ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithil-coffeebeans/request-rate-limitter.git"
+  },
+  "keywords": [
+    "request",
+    "rate-limiter"
+  ],
+  "author": "Nithil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nithil-coffeebeans/request-rate-limitter/issues"
+  },
+  "homepage": "https://github.com/Nithil-coffeebeans/request-rate-limitter#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
